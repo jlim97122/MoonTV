@@ -78,7 +78,7 @@
       "name": "iKun资源"
     },
     "k1080": {
-      "api": "https://api.yzzy-api.com/inc/api_mac10.php?ac=list",
+      "api": "https://api.yzzy-api.com/inc/api_mac10.php/provide/vod",
       "name": "1080资源"
     }
   }
